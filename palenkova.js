@@ -11,7 +11,7 @@ const fs = require("fs");
 // Initialization
 
 var config = {
-    brand: "elevene",
+    brand: "elevendeveloper",
 
     webhook: "REPLACE_ME",
 
